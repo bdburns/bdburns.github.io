@@ -1,4 +1,4 @@
-## Howdy, I'm Brent.
+### Howdy, I'm Brent.
 
 ### You can usually find me working on one of my projects or building something.
 ### If not, I'm probably writing, drawing, skateboarding, or playing with the internet.
